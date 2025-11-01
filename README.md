@@ -73,7 +73,9 @@ but if try `http://127.0.0.1:8000/get_coupon/abc` return `{"detail":[{"type":"in
 
 ### FastApi in built documentation
 if you access `http://127.0.0.1:8000/docs` will give you a kind of swagger with the methods to be tested.
-
+<img width="1226" height="927" alt="Screenshot 2025-10-31 at 21 06 03" src="https://github.com/user-attachments/assets/4faee27c-c280-4348-9805-64abcd696a90" />
+<img width="1260" height="681" alt="Screenshot 2025-10-31 at 21 05 54" src="https://github.com/user-attachments/assets/2addd8c3-be9c-4650-a518-c4d107c0abdc" />
 
 
 if you access `http://127.0.0.1:8000/redoc` generate another cool and simple documentation for your api.
+<img width="1223" height="622" alt="Screenshot 2025-10-31 at 21 07 58" src="https://github.com/user-attachments/assets/7c925d89-0460-4257-b4d0-45392b930c77" />
