@@ -1,5 +1,6 @@
 # FastAPI POC
 In this repository will be exploring FastApi with python.
+FastApi Documentation: https://fastapi.tiangolo.com/
 
 I`ve just installed FastApi and uvicorn:
 FastApi -> Rest apis with python -> `pip install fastapi`
@@ -11,6 +12,11 @@ UviCorn -> Server to run FastApi server -> `pip install uvicorn`
 This run the app and make it available in `http://127.0.0.1:8000/`
 
 ## FastApi vs Flask
+FastApi has:
+- In built Data Validation
+- In built Documentation
+- Fast running performance
+- Less time to write code, few bugs
 
 ### Data Validation
 Over this code:
